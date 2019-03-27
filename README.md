@@ -37,4 +37,4 @@ func azure functionapp publish enviromon-python --build-native-deps
 
 3. Azure SignalR .NET Core Function (Included in this GitHub repo). This Azure Function is responsible for distribution of new telemetry messaged out to the Web Client (https://enviro.z8.web.core.windows.net/image.html)
 
-4. Web Dashboard (Included in this GitHub repo). This is a Single Page Web App that is hosted on Azure Storage as a Static Website. So it too is serverless. The page used for this sample is classified.html. Be sure to modify the "apiBaseUrl" url to point your instance of the Azure SignalR Azure Function you install.
+4. [Web Dashboard](https://enviro.z8.web.core.windows.net/classified.html) (Included in this GitHub repo). This is a Single Page Web App that is hosted on Azure Storage as a Static Website. So it too is serverless. The page used for this sample is classified.html. Be sure to modify the "apiBaseUrl" url to point your instance of the Azure SignalR Azure Function you install.
