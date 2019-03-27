@@ -1,0 +1,14 @@
+{
+  "scriptFile": "__init__.py",
+  "bindings": [
+    {
+      "type": "eventHubTrigger",
+      "name": "event",
+      "direction": "in",
+      "eventHubName": "image-scanner",
+      "connection": "EventHubConnectionString",
+      "cardinality": "many",
+      "consumerGroup": "test-telemetry-processor"
+    }
+  ]
+}
