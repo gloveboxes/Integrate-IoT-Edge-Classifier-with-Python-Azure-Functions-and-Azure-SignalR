@@ -1,5 +1,13 @@
 # Create Python Virtual Environment
 
+## Creating your first Python Azure Function
+
+To understand how to create your first Python Azure function then read the "[Create your first Python function in Azure ](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-python)" article.
+
+## Solution overview
+
+![solution overview](./docs/resources/python-azure-functions-solution.png)
+
 In Bash
 
 ```bash
