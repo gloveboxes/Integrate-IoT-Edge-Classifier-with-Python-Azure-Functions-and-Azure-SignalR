@@ -31,7 +31,7 @@ func azure functionapp publish enviromon-python --build-native-deps
 
 ## Solution components
 
-1. [Image Classifier running on Azure IoT Edge].(https://github.com/gloveboxes/Creating-an-image-recognition-solution-with-Azure-IoT-Edge-and-Azure-Cognitive-Services). This project is configured for Raspberry Pi 2, 3 (A+ or B+) or Linux Desktop as Docker camera pass-through is required.
+1. [Image Classifier running on Azure IoT Edge](https://github.com/gloveboxes/Creating-an-image-recognition-solution-with-Azure-IoT-Edge-and-Azure-Cognitive-Services). This project is configured for Raspberry Pi 2, 3 (A+ or B+) or Linux Desktop as Docker camera pass-through is required.
 
 2. Azure IoT Hub Python Functions (included in this GitHub repo). This project is responsible for reacting to new telemetry from Azure IoT Hub, updating the Classified Storage Table and passing telemetry to the Azure SignalR service for near real-time web client update.
 
