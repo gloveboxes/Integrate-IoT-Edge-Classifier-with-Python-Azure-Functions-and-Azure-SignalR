@@ -2,7 +2,7 @@
 
 ## Creating your first Python Azure Function
 
-To understand how to create your first Python Azure function then read the "[Create your first Python function in Azure ](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-python)" article.
+To understand how to create your first Python Azure function then read the "[Create your first Python function in Azure ](https://docs.microsoft.com/azure/azure-functions/functions-create-first-function-python?WT.mc_id=iot-0000-dglover)" article.
 
 ## Solution overview
 
